@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title></title>
+
+    <script language="javascript">
+        <!--
+        var password = "cyshcysh";
+        var answer = prompt("請輸入密碼", "想偷密碼？ Hint：「看網頁原始碼」或「禁止JavaScript執行」");
+        if (answer != password) {
+            location.replace("computer_concept_108.html");
+        }
+        -->
+    </script>
+
+    <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?skin=desert"></script>
+
+    <style>
+        li.L0,
+        li.L1,
+        li.L2,
+        li.L3,
+        li.L5,
+        li.L6,
+        li.L7,
+        li.L8 {
+            list-style-type: decimal !important;
+        }
+
+        .prettyprint {
+            overflow: auto
+
+    </style>
+
+</head>
+
+<body>
+    <pre class="prettyprint linenums">
+        <code class="language-html">
+n = int(input('請輸入正整數：'))
+a = n
+cnt = 0
+
+while a**2 - n > 10**-15:
+    a=(a**2+n)/(2*a)
+    cnt+=1
+
+print('經過了 {} 次運算，根號 {} 為 {} '.format(cnt,n,a))
+        </code>
+    </pre>
+</body>
+
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title></title>
+
+    <script language="javascript">
+        <!--
+        var password = "cyshcysh";
+        var answer = prompt("請輸入密碼", "想偷密碼？ Hint：「看網頁原始碼」或「禁止JavaScript執行」");
+        if (answer != password) {
+            location.replace("computer_concept_108.html");
+        }
+        -->
+    </script>
+
+    <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?skin=desert"></script>
+
+    <style>
+        li.L0,
+        li.L1,
+        li.L2,
+        li.L3,
+        li.L5,
+        li.L6,
+        li.L7,
+        li.L8 {
+            list-style-type: decimal !important;
+        }
+
+        .prettyprint {
+            overflow: auto
+
+    </style>
+
+</head>
+
+<body>
+    <pre class="prettyprint linenums">
+        <code class="language-html">
+    // 810492 114 蔡伯岡
+    
+    int n;
+    cout << "Please enter n:";
+    while(cin>>n)
+    {
+        if(n==0||n==1)
+        {
+            cout << "The Christmas tree can't hold the weight, try another number !" << endl << "Please enter n:";
+            continue;
+        }
+        cout << "-----------------" << endl;
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=i;j<=i+2;j++)
+            {
+                for(int k=1;k<=n-j+2;k++)
+                    cout << " ";
+                for(int k=1;k<=2*j-1;k++)
+                    cout << "*";
+                cout << endl;
+            }
+        }
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=2+n/2;j++)
+                cout << " ";
+            for(int j=1;j<=(n%2==0?n-1:n);j++)
+                cout << "*";
+            cout << endl;
+        }
+        cout << "Please enter n:";
+    }
+        </code>
+    </pre>
+</body>
+
+</html>
