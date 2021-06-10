@@ -1,0 +1,59 @@
+<!--宣告css-->
+
+
+<html>
+
+<head>
+    <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+    <meta name="ProgId" content="FrontPage.Editor.Document">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Menu</title>
+    <base target="main">
+    <link rel="stylesheet" href="../../assets/css/main.css" />
+</head>
+
+<body>
+
+    <div class="row">
+        <div class="col-12">
+            <!-- Table -->
+            <section class="box" style="padding-top:0.3em;">
+              <center><font size="4">嘉義高中 資訊學科能力競賽 解題記錄系統</font></center>
+    
+                <div class="table-wrapper" style="padding-top:0.6em;">
+                    <table>
+                        <tbody>
+                               
+                            <tr>
+                                <td><a href="check_passwd.php?type=1" target="main">上傳程式碼</a></td>
+                                <td><a href="check_passwd.php?type=2" target="main">修改程式碼</a></td>
+                                <td><a href="check_passwd.php?type=3" target="main">刪除程式碼</a></td>
+                                <td><a href="check_passwd.php?type=4" target="main">新增帳號</a></td>
+                                <td><a href="check_passwd.php?type=5" target="main">修改帳號</a></td>
+                                <td><a href="check_passwd.php?type=6" target="main">刪除帳號</a></td>
+                                <td><a href="check_passwd.php?type=7" target="main">獎金管理</a></td>
+                                <td><a href="main.php" target="main">回首頁</a></td>
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+
+</body>
+
+</html>
+
+<script language=JavaScript>
+    if (document.all) {
+        var tags = document.all.tags("a")
+        for (var i = 0; i < tags.length; i++)
+            tags(i).outerHTML = tags(i).outerHTML.replace(">", " hidefocus=true>")
+    }
+
+</script>

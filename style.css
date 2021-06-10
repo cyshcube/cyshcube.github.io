@@ -1,0 +1,245 @@
+body{
+        background: url('/old_version/images/background.gif');
+        font-family: Arial;
+        font-size: 1.0em;
+        color: #363636;
+        line-height: 150%;
+        letter-spacing : 0.05em;
+        margin:0;
+        padding:0;
+}
+
+h2 {
+        font-size: 1.4em;
+        letter-spacing: 0.2em;
+        color: #02245c;
+        font-weight: bold;
+        line-height: 1.6em;
+}
+
+h3 {
+        font-size: 1.2em;
+        letter-spacing: 0.1em;
+        color: #0d5d9b;
+        font-weight: bold;
+        line-height: 1.4em;
+}
+
+h4 {
+        font-size: 1.0em;
+        letter-spacing: 0.1em;
+        color: #02245c;
+        font-weight: bold;
+        line-height: 1.1em;
+}
+
+h5 {
+        font-size: 0.7em;
+        color: #0d5d9b;
+}
+
+.highlight{
+        color:#ff0000;
+}
+
+.explain{
+        font-size:0.55em;
+        letter-spacing:0px;
+
+}
+
+a:link, a:visited{
+        color:#339;
+        font-size:0.95em;
+        text-decoration:none;
+}
+
+a:hover{
+        color: #09f;
+        text-decoration:underline;
+}
+
+table{
+        border-collapse:collapse;
+        width:100%;
+}
+
+caption{
+        background:#fff url('/old_version/images/bluechrome.gif') repeat-x top left;
+        background-position:0 -2px;
+        border-top:1px solid #999;
+        border-left:1px solid #999;
+        border-right:1px solid #999;
+        font-size: 1.1em;
+        font-weight: bold;
+        color: #0034a0;
+        letter-spacing:0.5em;
+        line-height: 150%; 
+	      padding:5px 10px;
+}
+
+td{
+        padding:5px 10px;
+        border:1px solid #999;
+        font-size: 1.0em;
+        line-height: 150%;
+        letter-spacing : 0.05em;
+        color: #363636;
+}
+
+img{border:none;}
+
+.motto{
+        padding:0 9px 0 0px;
+}
+
+.subtitle {
+        padding:10px 0 0 0;
+        height:50px;
+        width:180px;
+}
+
+.subtitle a.subtitlelink{
+        display:block;
+        width:165px;
+        height:35px;
+        background:url('/old_version/images/subtitle.jpg') no-repeat 0 0;
+        color:#0034a0;
+        padding:7px 0 0 17px;
+}
+.subtitle a.subtitlelink:hover {
+        color:#fff;
+        background:url('/old_version/images/subtitleover.jpg') no-repeat 0 0;
+}
+
+.counter{
+        padding:15px 0 0 0;
+        background:url('/old_version/images/人數.jpg') no-repeat 0 15px;
+        height:32px;
+        width:180px;
+        text-align:right;
+}
+
+.counter h6{
+        margin:4px 10px 0 0;
+}
+
+/* Inkscape 校徽 */
+.logo { width: 600px;}
+.logo img{ display: inline-block; vertical-align: top; width:97px; height:97px;}
+.logo p { float: left; padding: 4px; border: 1px solid #ddd; background: #fff; margin: 5px; }
+
+/* 內文分左右欄 */
+#leftcol {
+        width:48%;
+        float:left;
+        margin:2px;
+}
+
+#rightcol {
+        float:right;
+        width:48%;
+        margin:2px;
+}
+
+/* 排版 */
+#maincontainer{
+        width: 1000px;          /*Width of main container*/
+        margin: 0 auto;         /*Center container on page*/
+}
+
+#topsection{
+        height: 95px;           /*Height of top section*/
+}
+
+#topmenu{
+        height: 43px;           /*Height of top section*/
+}
+
+#contentwrapper{
+        float: left;
+        width: 100%;
+}
+
+#contentcolumn{
+        margin: 0 200px 0 200px;    /*Margins for content column. Should be "0 RightColumnWidth 0 LeftColumnWidth*/
+}
+
+#leftcolumn{
+        float: left;
+        width: 200px;               /*Width of left column in pixel*/
+        margin-left: -1000px;       /*Set margin to that of -(MainContainerWidth)*/
+}
+
+#rightcolumn{
+        float: left;
+        width: 200px;                 /*Width of right column*/
+        margin-left: -200px;          /*Set left margin to -(RightColumnWidth)*/
+}
+
+#footer{
+        clear: left;
+        width: 100%;
+        text-align: center;
+        background:url('/old_version/images/footer.jpg') no-repeat 0 0;
+}
+
+.innertube{
+        margin: 7px;                   /*Margins for inner DIV inside each column (to provide padding)*/
+        margin-top: 0;
+}
+
+
+/*選單*/
+/*Credits: CSSplay URL: http://www.cssplay.co.uk/menus/pro_drop2 */
+.preload2 {background: url('/old_version/images/menu/button4.gif');}
+.menu2 {margin:0; height:40px; background:#fff url('/old_version/images/menu/button1a.gif') repeat-x; position:relative; font-family:arial, verdana, sans-serif; list-style-type:none; padding:0 0 0 16px;}
+.menu2 li.top {display:block; float:left; position:relative;}
+.menu2 li a.top_link {display:block; float:left; height:40px; line-height:33px; color:#bbb; text-decoration:none; font-size:12px; font-weight:bold; padding:0 0 0 3px; cursor:pointer;}
+.menu2 li a.top_link span {float:left; display:block; padding:0 9px 0 8px; height:40px;}
+.menu2 li a.top_link span.down {float:left; display:block; height:40px; background:url('/old_version/images/menu/down.gif') no-repeat right top;; padding:0 24px 0 12px;}
+.menu2 li a.top_link:hover {color:#fff; background: url('/old_version/images/menu/button4.gif') no-repeat;}
+.menu2 li a.top_link:hover span {background:url('/old_version/images/menu/button4.gif') no-repeat right top;}
+.menu2 li a.top_link:hover span.down {background:url('/old_version/images/menu/button4a.gif') no-repeat right top;}
+
+.menu2 li:hover > a.top_link {color:#fff; background: url('/old_version/images/menu/button4.gif') no-repeat;}
+.menu2 li:hover > a.top_link span {background:url('/old_version/images/menu/button4.gif') no-repeat right top;}
+.menu2 li:hover > a.top_link span.down {background:url('/old_version/images/menu/button4a.gif') no-repeat right top;}
+
+.menu2 table {border-collapse:collapse; width:0; height:0; position:absolute; top:0; left:0;}
+
+/* Default link styling */
+/* Style the list OR link hover. Depends on which browser is used */
+
+.menu2 a:hover {visibility:visible;}
+.menu2 li:hover {position:relative; z-index:200;}
+
+/* keep the 'next' level invisible by placing it off screen. */
+.menu2 ul,
+.menu2 :hover ul ul,
+.menu2 :hover ul :hover ul ul,
+.menu2 :hover ul :hover ul :hover ul ul,
+.menu2 :hover ul :hover ul :hover ul :hover ul ul {position:absolute; left:-9999px; top:-9999px; width:0; height:0; margin:0; padding:0; list-style:none;}
+
+.menu2 :hover ul.sub {left:2px; top:40px; background: #fff; padding:3px 0; border:1px solid #4ab; white-space:nowrap; width:143px; height:auto;}
+.menu2 :hover ul.sub li {display:block; height:20px; position:relative; float:left; width:140px;}
+.menu2 :hover ul.sub li a {border-left:3px solid #fff; border-right:0px solid #fff; border-top:0px solid #fff; border-bottom:0px solid #fff; display:block; font-size:11px; height:20px; width:137px; line-height:20px; text-indent:5px; color:#000; text-decoration:none; }
+.menu2 :hover ul.sub li a.fly {background:#fff url('/old_version/images/menu/arrow.gif') no-repeat 130px 7px;}
+.menu2 :hover ul.sub li a:hover {background:#4ab; color:#fff;}
+.menu2 :hover ul.sub li a.fly:hover {background:#4ab url('/old_version/images/menu/arrow_over.gif') no-repeat 130px 7px; color:#fff}
+.menu2 :hover ul li:hover > a.fly {background:#4ab url('/old_version/images/menu/arrow_over.gif') no-repeat 130px 7px; color:#fff}
+
+/*給 level 3 a:hover 時的寬 */
+.menu2 :hover ul.sub li a.third:hover {border-left:3px solid #fff; border-right:0px solid #fff; border-top:0px solid #fff; border-bottom:0px solid #fff; display:block; font-size:11px; height:20px; width:87px; line-height:20px; text-indent:5px; color:#000; text-decoration:none; }
+
+.menu2 :hover ul :hover ul,
+.menu2 :hover ul :hover ul :hover ul,
+.menu2 :hover ul :hover ul :hover ul :hover ul,
+.menu2 :hover ul :hover ul :hover ul :hover ul :hover ul
+{left:140px; top:-4px; background: #fff; padding:3px 0; border:1px solid #4ab; white-space:nowrap; width:93px; z-index:200; height:auto;}
+
+/*ie6時表格設定還原*/
+.origin{
+        letter-spacing : 0em;
+        border:none;
+}
