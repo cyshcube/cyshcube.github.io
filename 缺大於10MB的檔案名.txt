@@ -1,7 +1,6 @@
 competition_problem_set/全國104_測試資料.zip
 competition_problem_set/全國106_測試資料.zip
 competition_problem_set/全國107_測試資料.zip
-competition_problem_set/全國109.pdf
 
 computer_club/LEGO EV3.7z
 computer_club/相撲車OZ.7z
