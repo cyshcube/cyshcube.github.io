@@ -1,0 +1,17 @@
+competition_problem_set/全國104_測試資料.zip
+competition_problem_set/全國106_測試資料.zip
+competition_problem_set/全國107_測試資料.zip
+competition_problem_set/全國109.pdf
+
+computer_club/LEGO EV3.7z
+computer_club/相撲車OZ.7z
+computer_club/原始小阿丟車.7z
+
+score
+
+software/language/codeblocks-20.03mingw-setup.exe
+software/language/codeblocks-20.03mingw-32bit-setup.exe
+software/language/Scratch.exe
+software/FormatFactory_setup.exe
+software/language/codeblocks-17.12mingw-setup.exe
+software/language/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe
