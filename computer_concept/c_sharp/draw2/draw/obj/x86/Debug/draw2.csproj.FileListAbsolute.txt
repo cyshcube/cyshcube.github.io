@@ -1,0 +1,8 @@
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\bin\Debug\draw.exe
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\bin\Debug\draw.pdb
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\obj\x86\Debug\draw2.csprojResolveAssemblyReference.cache
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\obj\x86\Debug\draw.Form1.resources
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\obj\x86\Debug\draw.Properties.Resources.resources
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\obj\x86\Debug\draw2.csproj.GenerateResource.Cache
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\obj\x86\Debug\draw.exe
+E:\cs_utf8\computer_concept\c_sharp\draw2\draw\obj\x86\Debug\draw.pdb

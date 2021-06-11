@@ -1,0 +1,21 @@
+C:\Users\3BASUS\AppData\Local\Temporary Projects\MatchingGame\obj\x86\Debug\MatchingGame.Form1.resources
+C:\Users\3BASUS\AppData\Local\Temporary Projects\MatchingGame\obj\x86\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\3BASUS\AppData\Local\Temporary Projects\MatchingGame\obj\x86\Debug\MatchingGame.csproj.GenerateResource.Cache
+C:\Users\3BASUS\AppData\Local\Temporary Projects\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\3BASUS\AppData\Local\Temporary Projects\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\3BASUS\AppData\Local\Temporary Projects\MatchingGame\obj\x86\Debug\MatchingGame.exe
+C:\Users\3BASUS\AppData\Local\Temporary Projects\MatchingGame\obj\x86\Debug\MatchingGame.pdb
+D:\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.exe
+D:\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.pdb
+D:\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+D:\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+D:\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.Form1.resources
+D:\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.Properties.Resources.resources
+D:\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.csproj.GenerateResource.Cache
+D:\cube\資訊科技概論\實作\c_sharp\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.exe
+D:\cube\資訊科技概論\實作\c_sharp\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.pdb
+D:\cube\資訊科技概論\實作\c_sharp\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+D:\cube\資訊科技概論\實作\c_sharp\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+D:\cube\資訊科技概論\實作\c_sharp\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.Form1.resources
+D:\cube\資訊科技概論\實作\c_sharp\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.Properties.Resources.resources
+D:\cube\資訊科技概論\實作\c_sharp\MatchingGame\MatchingGame\obj\x86\Debug\MatchingGame.csproj.GenerateResource.Cache

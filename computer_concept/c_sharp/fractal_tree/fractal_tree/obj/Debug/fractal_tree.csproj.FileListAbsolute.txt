@@ -1,0 +1,9 @@
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\bin\Debug\fractal_tree.exe.config
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\bin\Debug\fractal_tree.exe
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\bin\Debug\fractal_tree.pdb
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\obj\Debug\fractal_tree.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\obj\Debug\fractal_tree.Form1.resources
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\obj\Debug\fractal_tree.Properties.Resources.resources
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\obj\Debug\fractal_tree.csproj.GenerateResource.Cache
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\obj\Debug\fractal_tree.exe
+C:\Users\LAB-PC0\Desktop\fractal_tree\fractal_tree\obj\Debug\fractal_tree.pdb

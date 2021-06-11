@@ -1,0 +1,12 @@
+//KeyPreview set to true but still don't get any response when the arrow keys are pressed. All other keys seem to be working in the KeyDown event except the arrows. 
+//The normal Form Key events do not caputre the control keys. You need to override ProcessCmdKey instead. 
+
+protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+{
+    if (keyData == Keys.Right)
+    {
+        MessageBox.Show("Right Key Pressed!");
+    }
+
+    return base.ProcessCmdKey(ref msg, keyData);
+}

@@ -1,0 +1,15 @@
+C:\Users\3BASUS\Desktop\game\game\bin\Debug\game.exe
+C:\Users\3BASUS\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\3BASUS\Desktop\game\game\obj\x86\Debug\game.Form1.resources
+C:\Users\3BASUS\Desktop\game\game\obj\x86\Debug\game.Properties.Resources.resources
+C:\Users\3BASUS\Desktop\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+C:\Users\3BASUS\Desktop\game\game\obj\x86\Debug\game.exe
+C:\Users\3BASUS\Desktop\game\game\obj\x86\Debug\game.pdb
+D:\cube\資訊科技概論\實作\c_sharp\game\game\obj\x86\Debug\game.exe
+D:\cube\資訊科技概論\實作\c_sharp\game\game\obj\x86\Debug\game.pdb
+D:\cube\資訊科技概論\實作\c_sharp\game\game\bin\Debug\game.exe
+D:\cube\資訊科技概論\實作\c_sharp\game\game\bin\Debug\game.pdb
+D:\cube\資訊科技概論\實作\c_sharp\game\game\obj\x86\Debug\game.Form1.resources
+D:\cube\資訊科技概論\實作\c_sharp\game\game\obj\x86\Debug\game.Properties.Resources.resources
+D:\cube\資訊科技概論\實作\c_sharp\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+D:\cube\資訊科技概論\實作\c_sharp\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache

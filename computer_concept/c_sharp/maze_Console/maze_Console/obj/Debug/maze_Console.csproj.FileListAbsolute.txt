@@ -1,0 +1,13 @@
+C:\Users\CTMiMe\Desktop\maze_Console\maze_Console\bin\Debug\maze_Console.exe.config
+C:\Users\CTMiMe\Desktop\maze_Console\maze_Console\bin\Debug\maze_Console.exe
+C:\Users\CTMiMe\Desktop\maze_Console\maze_Console\bin\Debug\maze_Console.pdb
+C:\Users\CTMiMe\Desktop\maze_Console\maze_Console\obj\Debug\maze_Console.csprojAssemblyReference.cache
+C:\Users\CTMiMe\Desktop\maze_Console\maze_Console\obj\Debug\maze_Console.csproj.CoreCompileInputs.cache
+C:\Users\CTMiMe\Desktop\maze_Console\maze_Console\obj\Debug\maze_Console.exe
+C:\Users\CTMiMe\Desktop\maze_Console\maze_Console\obj\Debug\maze_Console.pdb
+E:\cs_utf8\computer_concept\c_sharp\maze_Console\maze_Console\bin\Debug\maze_Console.exe.config
+E:\cs_utf8\computer_concept\c_sharp\maze_Console\maze_Console\bin\Debug\maze_Console.exe
+E:\cs_utf8\computer_concept\c_sharp\maze_Console\maze_Console\bin\Debug\maze_Console.pdb
+E:\cs_utf8\computer_concept\c_sharp\maze_Console\maze_Console\obj\Debug\maze_Console.csprojResolveAssemblyReference.cache
+E:\cs_utf8\computer_concept\c_sharp\maze_Console\maze_Console\obj\Debug\maze_Console.exe
+E:\cs_utf8\computer_concept\c_sharp\maze_Console\maze_Console\obj\Debug\maze_Console.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\dropDown\dropDown\bin\Debug\dropDown.exe.config
+C:\Users\user\Desktop\dropDown\dropDown\bin\Debug\dropDown.exe
+C:\Users\user\Desktop\dropDown\dropDown\bin\Debug\dropDown.pdb
+C:\Users\user\Desktop\dropDown\dropDown\obj\Debug\dropDown.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\dropDown\dropDown\obj\Debug\dropDown.Form1.resources
+C:\Users\user\Desktop\dropDown\dropDown\obj\Debug\dropDown.Properties.Resources.resources
+C:\Users\user\Desktop\dropDown\dropDown\obj\Debug\dropDown.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\dropDown\dropDown\obj\Debug\dropDown.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dropDown\dropDown\obj\Debug\dropDown.exe
+C:\Users\user\Desktop\dropDown\dropDown\obj\Debug\dropDown.pdb

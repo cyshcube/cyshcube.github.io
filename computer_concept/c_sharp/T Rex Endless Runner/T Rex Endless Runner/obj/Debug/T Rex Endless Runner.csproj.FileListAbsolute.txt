@@ -1,0 +1,27 @@
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe.config
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.pdb
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Form1.resources
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Properties.Resources.resources
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.GenerateResource.Cache
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.exe
+C:\Users\LAB-PC0\Desktop\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.pdb
+G:\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe.config
+G:\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe
+G:\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.pdb
+G:\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Form1.resources
+G:\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Properties.Resources.resources
+G:\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.GenerateResource.Cache
+G:\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.exe
+G:\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.pdb
+G:\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csprojResolveAssemblyReference.cache
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe.config
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.pdb
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csprojResolveAssemblyReference.cache
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Form1.resources
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Properties.Resources.resources
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.GenerateResource.Cache
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.exe
+D:\cube\實作\c_sharp\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.pdb
