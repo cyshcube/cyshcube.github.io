@@ -14,5 +14,3 @@ software/language/Scratch.exe
 software/FormatFactory_setup.exe
 software/language/codeblocks-17.12mingw-setup.exe
 software/language/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe
-
-test
